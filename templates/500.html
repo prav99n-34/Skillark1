@@ -1,0 +1,1 @@
+{% extends 'base.html' %}{% block content %}<section class="empty"><p class="eyebrow">SKILLARC</p><h1>Something needs attention.</h1><p>The request could not be completed. Please return to the platform and try again.</p><a class="btn gold" href="{{url_for('dashboard') if current_user else url_for('home')}}">Return safely</a></section>{% endblock %}

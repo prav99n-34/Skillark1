@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none">
+  <defs>
+    <linearGradient id="head" x1="56" y1="51" x2="197" y2="169" gradientUnits="userSpaceOnUse"><stop stop-color="#F8F3E7"/><stop offset="1" stop-color="#C7D4CC"/></linearGradient>
+    <linearGradient id="body" x1="76" y1="166" x2="181" y2="239" gradientUnits="userSpaceOnUse"><stop stop-color="#294E43"/><stop offset="1" stop-color="#122A35"/></linearGradient>
+    <radialGradient id="eye" cx="0" cy="0" r="1" gradientTransform="matrix(0 19 -25 0 128 112)" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFDF5"/><stop offset=".62" stop-color="#DCE5D9"/><stop offset="1" stop-color="#86A398"/></radialGradient>
+  </defs>
+  <!-- Signature career-navigation beacon: a deliberate open orbital ring, not a generic antenna. -->
+  <path d="M98 53c9-31 47-43 73-22 17 14 19 37 8 56" stroke="#C3A36C" stroke-width="6" stroke-linecap="round"/>
+  <path d="M182 61l-5-18 17 7" fill="#C3A36C" stroke="#765F35" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="99" cy="52" r="8" fill="#DCE5D9" stroke="#294653" stroke-width="4"/><circle cx="99" cy="52" r="3" fill="#B99052"/>
+  <!-- Compact workforce chassis with connected outcome nodes. -->
+  <path d="M79 164c-9 19-9 47-1 73h100c8-26 8-54-1-73l-15-10H94l-15 10Z" fill="url(#body)" stroke="#122A35" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M95 165h66l13 65H82l13-65Z" fill="#F6F1E7" stroke="#C3A36C" stroke-width="4" stroke-linejoin="round"/>
+  <!-- Workforce core: geometric profile/data core with skill nodes and progression path. -->
+  <path d="m128 177 22 13v26l-22 13-22-13v-26l22-13Z" fill="#173541" stroke="#B99052" stroke-width="3" stroke-linejoin="round"/>
+  <circle cx="128" cy="202" r="8" fill="#DCE5D9"/><path d="M128 187v-4M128 221v5M111 195l-5-3M145 195l5-3M111 210l-5 3M145 210l5 3" stroke="#8AA69A" stroke-width="3" stroke-linecap="round"/>
+  <path d="M90 184v32M96 184v32" stroke="#294653" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="93" cy="187" r="4" fill="#8AA69A"/><circle cx="93" cy="200" r="4" fill="#C3A36C"/><circle cx="93" cy="213" r="4" fill="#294653"/>
+  <path d="M164 190h-9M164 201h-9M164 212h-9" stroke="#294653" stroke-width="3" stroke-linecap="round"/><circle cx="168" cy="190" r="3" fill="#8AA69A"/><circle cx="168" cy="201" r="3" fill="#C3A36C"/><circle cx="168" cy="212" r="3" fill="#8AA69A"/>
+  <!-- Asymmetric communication pods form ARKO's recognisable terminal silhouette. -->
+  <path d="M48 87c0-12 10-22 22-22h10v70H68c-11 0-20-9-20-20V87Z" fill="#294653" stroke="#122A35" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M177 77h13c10 0 18 8 18 18v25c0 10-8 18-18 18h-13V77Z" fill="#294653" stroke="#122A35" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M59 91h11M59 104h11M59 117h11" stroke="#DCE5D9" stroke-width="3" stroke-linecap="round"/><circle cx="193" cy="95" r="6" fill="#C3A36C"/><path d="M188 113h10M188 122h10" stroke="#DCE5D9" stroke-width="3" stroke-linecap="round"/>
+  <!-- Architectural head: intentionally not circular, with a display-first robotic face. -->
+  <path d="M69 71 91 49h73l25 22v67l-23 29H89l-25-26V92l5-21Z" fill="url(#head)" stroke="#122A35" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M83 91c0-15 12-27 27-27h37c15 0 27 12 27 27v38c0 15-12 27-27 27h-37c-15 0-27-12-27-27V91Z" fill="#173541" stroke="#294653" stroke-width="5"/>
+  <path d="M92 81h56" stroke="#C3A36C" stroke-width="3" stroke-linecap="round"/><path d="M155 81h8" stroke="#8AA69A" stroke-width="3" stroke-linecap="round"/>
+  <!-- Signature warm digital eyes. -->
+  <rect x="94" y="96" width="31" height="28" rx="12" fill="url(#eye)"/><rect x="131" y="96" width="31" height="28" rx="12" fill="url(#eye)"/>
+  <rect x="105" y="101" width="8" height="18" rx="4" fill="#294653"/><rect x="143" y="101" width="8" height="18" rx="4" fill="#294653"/>
+  <path d="M97 91c8-6 17-6 25-1M134 90c8-5 17-5 25 1" stroke="#8AA69A" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="106" cy="104" r="2" fill="#FFF"/><circle cx="144" cy="104" r="2" fill="#FFF"/>
+  <path d="M119 138c5 4 13 4 18 0" stroke="#DCE5D9" stroke-width="4" stroke-linecap="round"/>
+  <path d="M92 137h10M154 137h10" stroke="#8AA69A" stroke-width="3" stroke-linecap="round"/><circle cx="88" cy="137" r="4" fill="#B99052"/><circle cx="168" cy="137" r="4" fill="#8AA69A"/>
+  <!-- Small training/certification tab and a discreet lower status indicator. -->
+  <path d="M72 74 84 61l10 10-12 13-10-10Z" fill="#DCE5D9" stroke="#294653" stroke-width="3" stroke-linejoin="round"/><path d="m80 69 5 5" stroke="#B99052" stroke-width="3" stroke-linecap="round"/>
+  <path d="M116 235h24" stroke="#DCE5D9" stroke-width="3" stroke-linecap="round"/><circle cx="128" cy="235" r="5" fill="#B99052" stroke="#765F35" stroke-width="2"/>
+</svg>

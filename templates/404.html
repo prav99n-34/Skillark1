@@ -1,0 +1,1 @@
+{% extends 'base.html' %}{% block content %}<section class="empty"><p class="eyebrow">SKILLARC</p><h1>Record not found.</h1><p>{{message or 'The page or record you requested is unavailable.'}}</p><a class="btn gold" href="{{url_for('dashboard') if current_user else url_for('home')}}">Return safely</a></section>{% endblock %}
